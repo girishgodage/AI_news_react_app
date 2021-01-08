@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+# React News Application - Alan AI Voice Assistant
+
+## [Live Site] (https://girish-news-ai.netlify.app/)
+   
+   ![Voice Controlled React News Application](https://i.ibb.co/SVyK6Nh/news_ai_app.png)
+
+## Introduction
+ We build a Conversational Voice Controlled React News Application using Alan AI. Alan AI is a revolutionary speech recognition software that allows you to add voice capabilities to your applications. It allows you to control absolutely everything in the app using your voice. Another huge benefit is that it's extremely easy to integrate it.
+ 
+ * [Alan AI](https://alan.app/)
+ * [News API](https://newsapi.org)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
